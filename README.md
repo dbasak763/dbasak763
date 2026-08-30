@@ -2,7 +2,7 @@
 
 I build practical software projects and prototypes with AI-assisted tools while strengthening my development fundamentals.
 
-I'm currently exploring backend development, databases, and machine learning through hands-on projects.
+Currently exploring backend development, databases, and machine learning through hands-on projects. Have some experience with full-stack and mobile/ios development.
 
 ## Outside of coding
 
