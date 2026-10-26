@@ -1,8 +1,8 @@
 # Hi, I'm Diwakar 👋
 
-I have experience programming in several languages and build practical software projects and prototypes with AI-assisted tools while strengthening my software development skills.
+Software engineer with experience designing and building applications across backend systems, full-stack development, and machine learning. My work spans multiple programming languages and technologies, with a focus on developing scalable, efficient, and practical software solutions.
 
-Currently exploring backend development, databases, and machine learning through hands-on projects, with additional experience in full-stack and mobile/ios development.
+My technical interests include distributed systems, databases, AI/ML, and robotics, complemented by hands-on experience in mobile/iOS development and building end-to-end applications.
 
 ## Tech Stack
 
